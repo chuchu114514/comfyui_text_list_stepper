@@ -1,6 +1,6 @@
 # comfyui_text_list_stepper
 用于批量抽取提示词
-
+来这个文档有很多人是要生成蔚蓝档案角色的，你可以在这里获得角色词：**https://docs.google.com/spreadsheets/d/1GWV5z7IsE9Lu_jJeEu6jgrTUqY1imLcNUqzYDobiIqI/edit?usp=sharing**
 # Text List Processor Node for ComfyUI
 
 **Author:** Gemini  
